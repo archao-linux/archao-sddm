@@ -36,7 +36,3 @@ This theme requires QtQuick and the SddmComponents module.  These should be inst
 ## License
 
 This theme is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Changing the Greeting Text
-
-To change the greeting text, edit the `assets/greeting.svg` file. The greeting text is currently set to "Hello". To change it, replace "Hello" with your desired greeting text.
