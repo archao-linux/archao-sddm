@@ -1,0 +1,14 @@
+[SddmGreeterTheme]
+Name=Archao
+Description=Purple leaves theme for SDDM
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/archao-linux/archao-sddm
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=archao-sddm
+Theme-API=2.0
+License=MIT
+QtVersion=6
